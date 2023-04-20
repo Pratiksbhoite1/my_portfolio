@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.40908431.css",
-    "main.js": "/my-portfolio/static/js/main.48104a9f.js",
-    "static/js/496.eca39582.chunk.js": "/my-portfolio/static/js/496.eca39582.chunk.js",
-    "static/media/intershipCerti.jpeg": "/my-portfolio/static/media/intershipCerti.c8c225841441405563ab.jpeg",
-    "static/media/about.jpeg": "/my-portfolio/static/media/about.a292c8bb741e0fd3b0a9.jpeg",
-    "static/media/shop.png": "/my-portfolio/static/media/shop.af726eb930e6fb208c87.png",
-    "static/media/10.png": "/my-portfolio/static/media/10.e059f289752be579ba3c.png",
-    "static/media/learnignjava.jpeg": "/my-portfolio/static/media/learnignjava.e37e2a3336dbaf9e1494.jpeg",
-    "static/media/python.jpeg": "/my-portfolio/static/media/python.48ebaa1db704980e3665.jpeg",
-    "static/media/logoDark.png": "/my-portfolio/static/media/logoDark.53d12b3f14df415eb83e.png",
-    "static/media/java.png": "/my-portfolio/static/media/java.1317cf128f37cf933e7c.png",
-    "static/media/pf.jpeg": "/my-portfolio/static/media/pf.08c3345ba55c18f08c42.jpeg",
-    "static/media/logoLight.png": "/my-portfolio/static/media/logoLight.fe7e41ab1c6a79c8283e.png",
-    "static/media/pre.svg": "/my-portfolio/static/media/pre.74b00c043f4cea5fb393.svg",
-    "index.html": "/my-portfolio/index.html",
-    "main.40908431.css.map": "/my-portfolio/static/css/main.40908431.css.map",
-    "main.48104a9f.js.map": "/my-portfolio/static/js/main.48104a9f.js.map",
-    "496.eca39582.chunk.js.map": "/my-portfolio/static/js/496.eca39582.chunk.js.map"
+    "main.css": "/my_portfolio/static/css/main.7468e7c8.css",
+    "main.js": "/my_portfolio/static/js/main.ce1cdae2.js",
+    "static/js/496.eca39582.chunk.js": "/my_portfolio/static/js/496.eca39582.chunk.js",
+    "static/media/intershipCerti.jpeg": "/my_portfolio/static/media/intershipCerti.c8c225841441405563ab.jpeg",
+    "static/media/about.jpeg": "/my_portfolio/static/media/about.a292c8bb741e0fd3b0a9.jpeg",
+    "static/media/shop.png": "/my_portfolio/static/media/shop.af726eb930e6fb208c87.png",
+    "static/media/10.png": "/my_portfolio/static/media/10.e059f289752be579ba3c.png",
+    "static/media/learnignjava.jpeg": "/my_portfolio/static/media/learnignjava.e37e2a3336dbaf9e1494.jpeg",
+    "static/media/python.jpeg": "/my_portfolio/static/media/python.48ebaa1db704980e3665.jpeg",
+    "static/media/logoDark.png": "/my_portfolio/static/media/logoDark.53d12b3f14df415eb83e.png",
+    "static/media/java.png": "/my_portfolio/static/media/java.1317cf128f37cf933e7c.png",
+    "static/media/pf.jpeg": "/my_portfolio/static/media/pf.08c3345ba55c18f08c42.jpeg",
+    "static/media/logoLight.png": "/my_portfolio/static/media/logoLight.fe7e41ab1c6a79c8283e.png",
+    "static/media/pre.svg": "/my_portfolio/static/media/pre.74b00c043f4cea5fb393.svg",
+    "index.html": "/my_portfolio/index.html",
+    "main.7468e7c8.css.map": "/my_portfolio/static/css/main.7468e7c8.css.map",
+    "main.ce1cdae2.js.map": "/my_portfolio/static/js/main.ce1cdae2.js.map",
+    "496.eca39582.chunk.js.map": "/my_portfolio/static/js/496.eca39582.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40908431.css",
-    "static/js/main.48104a9f.js"
+    "static/css/main.7468e7c8.css",
+    "static/js/main.ce1cdae2.js"
   ]
 }
