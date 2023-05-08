@@ -30,7 +30,7 @@ function Projects() {
             <ProjectCard
               imgPath={Ecart}
               title="E Cart"
-              description="This is a fully functional eCommerce website that uses React.js + MUI and CSS in the front end and NodeJs and express js in backend and MongoDb as Database.<u>Under the Devolopment</u>"
+              description="This is a fully functional eCommerce website that use html CSS and Js in the front end and django in backend and sql database <u>Under the Devolopment</u>"
               ghLink="#"
               demoLink="#"
             />
@@ -59,7 +59,7 @@ function Projects() {
             <ProjectCard
               imgPath={JAVA}
               title="Expense Tracker"
-              description="An online expense tracker using React, Node, Express, and MongoDB as the database. It allows you to keep track of your expenses, investments, and savings. All past transactions are listed, and you can also delete them. "
+              description="Hostel Database management system using jdbc "
               ghLink="https://github.com/Pratiksbhoite1/Hostel-Management"
               demoLink="https://github.com/Pratiksbhoite1/Hostel-Management/archive/refs/heads/main.zip"
             />
