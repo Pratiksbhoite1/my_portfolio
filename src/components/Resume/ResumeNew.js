@@ -25,7 +25,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href="https://github.com/Pratiksbhoite1/my_portfolio/raw/main/PratikBhoiteCV.pdf"
+            href="https://github.com/Pratiksbhoite1/my_portfolio/raw/main/Pratik_Bhoite_CV.pdf"
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
@@ -43,7 +43,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href="https://github.com/Pratiksbhoite1/my_portfolio/raw/main/PratikBhoiteResume.pdf"
+            href="https://github.com/Pratiksbhoite1/my_portfolio/raw/main/Pratik_Bhoite_CV.pdf"
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
