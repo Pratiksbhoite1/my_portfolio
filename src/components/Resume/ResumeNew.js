@@ -9,7 +9,7 @@ import ScrollToTop from "../ScrollToTop/ScrollToTop";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-"https://raw.githubusercontent.com/Pratiksbhoite1/my_portfolio/main/PratikBhoiteCV.pdf";
+"https://raw.githubusercontent.com/Pratiksbhoite1/my_portfolio/main/Pratik_Bhoite_CV.pdf";
 
 
 function ResumeNew() {
