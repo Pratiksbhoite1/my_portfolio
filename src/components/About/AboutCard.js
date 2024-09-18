@@ -8,7 +8,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0" data-aos="zoom-in">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="primary-header">Pratik Bhoite</span> from Pune, Maharastra, India. I am a computer science Student Pursuing in third year of Engineering  and a passionate programmer.
+            Hi Everyone, I am <span className="primary-header">Pratik Bhoite</span> from Pune, Maharastra, India. I have completed my studies in computer science   and a passionate programmer.
             <br />
             <br />
             In addition to coding, here are some other things I enjoy doing!
